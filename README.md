@@ -79,7 +79,3 @@ This project is licensed under the MIT License.
 - Vite — Fast build tool
 - Zustand — Lightweight state management
 
----
-
-**Built by [Udaybir Singh](https://github.com/Uday9909)**  
-📫 writetoudaybir@gmail.com
